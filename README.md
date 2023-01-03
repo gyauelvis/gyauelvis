@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyauelvis
 - 👀 I’m interested in coding,watching movies and listening to music
-- 🌱 I’m currently learning javascript and mblock
+- 🌱 I’m currently learning javascript and arduino
 - 💞️ I’m looking to collaborate on building any website project using html css and javascript
 - 📫 Reach me on linkedIn @Gyau Boahen Elvis and twitter @Lord Gyau
 
