@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gyauelvis
+<h1>GELVIS</h1>
 - 👀 I’m interested in coding,watching movies and listening to music
 - 🌱 I’m currently learning javascript and arduino
 - 💞️ I’m looking to collaborate on building any website project using html css and javascript
