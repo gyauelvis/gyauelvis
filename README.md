@@ -1,5 +1,5 @@
 # I'm Elvis ✨
-*Junior Software Engineer/Social media Manager/Programming Tutor*
+*Junior Software Engineer/Social media Manager/Programming Tutor :nerd_face:*
 <h2></h2>
 
 ## My Programming Journey 📫
@@ -7,7 +7,7 @@
 <p>
   I'm looking forward to collaborating on any programming project that uses <b>HTML,CSS,JavaScript and Arduino</b>
 </p>
-<h2>Let's Connect </h2>
+<h2>Let's Connect👋</h2>
 <a href="https://www.linkedin.com/in/gyauboahenelvis/"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" title='LinkedIn'/></a>
 <a href="https://twitter.com/LordGyau"><img src="https://img.icons8.com/color/48/null/twitter--v1.png" title='twitter'/></a>
 <a href="https://www.pinterest.com/gyauelvis/"><img src="https://img.icons8.com/color/48/null/pinterest--v1.png" title='Pinterest'/></a>
