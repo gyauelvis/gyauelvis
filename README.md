@@ -22,6 +22,12 @@
 <a href<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" title='Visual Studio'/></a>
 <p></p>
 
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=gyauelvis&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyauelvis&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyauelvis&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyauelvis&theme=github_dark)
+
+<!-- [![Gyau Boahen Elvis' Stats](https://github-readme-stats.vercel.app/api?username=gyauelvis&show_icons=true&theme=github_dark)](https://github.com/qbentil) -->
 
 
 
