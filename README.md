@@ -18,8 +18,9 @@
 <a href='#'><img src="https://img.icons8.com/color/48/null/css3.png" title='CSS'/></a>
 <a href='#'><img src="https://img.icons8.com/color/48/null/wordpress.png" title='WordPress'/></a>
 <a href='#'><img src="https://img.icons8.com/color/48/null/html-5--v1.png" title='HTML'/></a>
-<a href<img src="https://img.icons8.com/color/48/null/arduino.png" title='Arduino'/></a>
-<a href<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" title='Visual Studio'/></a>
+<a href="#><img src="https://img.icons8.com/color/48/null/arduino.png" title='Arduino'/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" title='Visual Studio'/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/tailwindcss.png" tilte="Tailwindcss"/></a>
 <p></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyauelvis&theme=github_dark)
