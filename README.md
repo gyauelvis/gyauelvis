@@ -1,5 +1,5 @@
 # Hello World, I'm Elvis ✨
-> *Software Engineer/Social media Manager/Programming Tutor :nerd_face:*
+> *Software Engineer/Computer Engineering Student @KNUST/Programming Tutor :nerd_face:*
 <h2></h2>
 
 <details>
@@ -21,7 +21,7 @@
 <a href="#><img src="https://img.icons8.com/color/48/null/arduino.png" title='Arduino'/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" title='Visual Studio'/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/tailwindcss.png" tilte="Tailwindcss"/></a>
-<a href="#"><img title = "c-programming" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/></a>                                 <a href="#"><img title="C++" width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>                                                              
+<a href="#"><img title = "c-programming" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/></a>                <a href="#"><img title="C++" width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>                       <a href="#"><img title="Git" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>                                                             
 <p></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyauelvis&theme=github_dark)
