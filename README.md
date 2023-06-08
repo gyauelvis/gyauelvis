@@ -1,5 +1,5 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=gyauelvis&label=Profile%20views&color=e91e63&style=flat" alt="gyauelvis"/> </p>
-<h1>Hello World, I'm Elvis ✨</h1>
+<h1>Hello World, I'm G.Elvis ✨</h1>
 
 > *Software Engineer/Computer Engineering Student @KNUST/Programming Tutor :nerd_face:*
 <h2></h2>
