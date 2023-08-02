@@ -23,6 +23,7 @@
 <a href="#><img src="https://img.icons8.com/color/48/null/arduino.png" title='Arduino'/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" title='Visual Studio'/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/tailwindcss.png" tilte="Tailwindcss"/></a>
+<a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" title="Vue Js" alt="vue-js"/></a>
 <a href="#"><img title = "c-programming" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/></a>                <a href="#"><img title="C++" width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>                       <a href="#"><img title="Git" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>                                                             
 <p></p>
 
