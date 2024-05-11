@@ -2,8 +2,6 @@
 <h1>Hello World, I'm G.Elvis ✨</h1>
 
 > *Computer Engineering Student @ KNUST :nerd_face:*
-<h2></h2>
-
 <h2>Read my Blogs</h2>
 <a href="https://dev.to/gyauelvis/programming-languages-every-developer-should-watch-out-for-1ak4">🚀Programming Languages Every Developer Should Watch Out For😱</a><br>
 <a href="https://dev.to/gyauelvis/a-beginners-guide-to-apis-4ce4">🔥A Comprehensive Guide to APIs and the Fetch API</a><br>
